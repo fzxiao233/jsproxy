@@ -24,7 +24,6 @@ jsproxy_config({
         'https://ao3.matsuri.best/': 1,
       }
     }
-    }
   },
 
   /**
